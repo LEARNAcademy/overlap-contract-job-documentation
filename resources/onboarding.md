@@ -32,5 +32,5 @@
 
 ### Second Day
 - How to plan for lectures
-- Onboarding for Bravo students (one on ones, email sequences, computers)
--
+- Syllabus
+- Onboarding for Bravo students (one on ones, email sequences, computers) assist Hillary with onboarding
